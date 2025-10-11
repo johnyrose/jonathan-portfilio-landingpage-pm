@@ -26,8 +26,8 @@ title: 'Skills'
 - `ELK Stack`
 
 #### Cloud Providers
-- **AWS:** `Lambda`, `SQS`, `EventBridge`, `Kinesis`, `EC2`, `Step Functions`, _and more_
-- **Azure**
+- AWS: `Lambda`, `SQS`, `EventBridge`, `Kinesis`, `EC2`, `Step Functions`, _and more_
+- Azure
 
 #### Databases
 - `MongoDB`, `DynamoDB`, `PostgreSQL`
