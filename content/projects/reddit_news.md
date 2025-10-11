@@ -4,9 +4,13 @@ title: Reddit News
 
 This is a small Python project that generates a minimalistic news site from Reddit posts. 
 
+Check it out on Github: https://github.com/johnyrose/reddit-news
+
 A [Static hosted demo](https://johnyrose.github.io/reddit-news-static-demo/) can be found here.
 
 And yes, this was made before Gen AI made it super easy
+
+---
 
 ## Background
 
