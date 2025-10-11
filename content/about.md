@@ -12,3 +12,5 @@ My experience goes from setting up cloud infrastructure and CI/CD, to backend ar
 ---
 
 For more details, feel free to check out my [Skills](/skills) and [Experience](/experience), or check out my [CV](/Jonathan-CV.pdf)
+
+Feel free to reach out at `rosenboimjonathan@gmail.com`
