@@ -21,8 +21,12 @@ params:
         url: /Jonathan-CV.pdf
         targetBlank: true
         target: _blank
-      - name: My Skills
+      - name: Skills
         url: /skills
+        targetBlank: false
+        target: _self
+      - name: Experience
+        url: /experience
         targetBlank: false
         target: _self
 
