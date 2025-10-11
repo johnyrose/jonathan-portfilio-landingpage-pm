@@ -1,8 +1,11 @@
 # baseURL: "http://localhost:1313/"
 # baseURL: "https://johnyrose.github.io/jonathan-portfilio-landingpage-pm/"
-baseURL: "https://swissarmytools.com"
+baseURL: "https://swissarmytools.com/"
 title: "Jonathan Rosenboim"
 theme: ["PaperMod"]
+
+canobifyURLs: true
+relativeURLs: false
 
 params:
   profileMode:
