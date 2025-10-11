@@ -1,0 +1,65 @@
+baseURL: "http://localhost:1313/"
+title: "Jonathan Rosenboim"
+theme: ["PaperMod"]
+
+params:
+
+  # homeInfoParams:
+  #   Title: "Hi there 👋"
+  #   Content: >
+  #     This can be a few sentences with links, bold text, etc.
+
+  # ---- Profile Mode ----
+  profileMode:
+    enabled: true
+    title: "Hi, I'm Jonathan"
+    subtitle: |
+      I'm **Jonathan**, a senior backend engineer from **Israel** with 9 years of experience in the industry.
+      
+       
+      ---
+
+
+      I build reliable backend systems and love clean APIs. Currently focused on performance and developer experience.
+    imageUrl: "/images/avatar.png"   # put the image in static/images/avatar.jpg
+    imageTitle: "Avatar"
+    imageWidth: 160
+    imageHeight: 160
+    buttons:
+      # - name: Posts
+      #   url: /posts/
+      - name: View resume
+        url: /Jonathan-CV.pdf
+        targetBlank: true
+        target: _blank
+
+  fuseOpts:                 # optional tuning (defaults are good)
+    isCaseSensitive: false
+    shouldSort: true
+    threshold: 0.4
+  search: true   
+
+  # ---- Social icons (must be under params) ----
+  socialIcons:
+    - name: github
+      url: https://github.com/johnyrose
+    - name: linkedin
+      url: https://www.linkedin.com/in/jonathan-rosenboim
+    - name: email
+      url: mailto:rosenboimjonathan@gmail.com
+      
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Posts
+      url: /posts/
+      weight: 2
+    - name: Contact me
+      url: /contact/
+      weight: 3
+    # - name: Search
+    #   url: /search/
+    #   weight: 4
