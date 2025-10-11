@@ -1,4 +1,5 @@
-baseURL: "http://localhost:1313/"
+# baseURL: "http://localhost:1313/"
+baseURL: "https://johnyrose.github.io/jonathan-portfilio-landingpage-pm/"
 title: "Jonathan Rosenboim"
 theme: ["PaperMod"]
 
