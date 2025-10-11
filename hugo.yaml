@@ -7,6 +7,14 @@ theme: ["PaperMod"]
 canobifyURLs: true
 relativeURLs: false
 
+googleAnalytics: "G-W28LXG9PM5"
+privacy:
+  googleAnalytics:
+    anonymizeIP: true
+    respectDoNotTrack: true
+    useSessionStorage: false
+
+
 params:
   profileMode:
     enabled: true
