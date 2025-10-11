@@ -65,9 +65,6 @@ menu:
   main:
     - name: Home
       url: /
-      weight: 0
-    - name: Projects
-      url: /projects/
       weight: 1
     - name: About
       url: /about/
@@ -78,9 +75,12 @@ menu:
     - name: Experience
       url: /experience/
       weight: 4
+    - name: Projects
+      url: /projects/
+      weight: 5
     - name: Contact me
       url: /contact/
-      weight: 5
+      weight: 6
     # - name: Search
     #   url: /search/
     #   weight: 4
