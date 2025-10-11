@@ -7,7 +7,7 @@ params:
     enabled: true
     title: "Hi, I'm Jonathan"
     subtitle: |
-      I'm **Jonathan**, a senior backend engineer from **Israel** with 9 years of experience in the industry.
+      I'm **Jonathan**, a senior backend engineer from **Israel** with 9 years of experience.
 
       ---
     imageUrl: "/images/avatar.png"   # put the image in static/images/avatar.jpg
@@ -54,6 +54,9 @@ menu:
     # - name: Posts
     #   url: /posts/
     #   weight: 2
+    - name: About
+      url: /about/
+      weight: 2
     - name: Skills
       url: /skills/
       weight: 3
