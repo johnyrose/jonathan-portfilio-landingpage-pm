@@ -3,24 +3,13 @@ title: "Jonathan Rosenboim"
 theme: ["PaperMod"]
 
 params:
-
-  # homeInfoParams:
-  #   Title: "Hi there 👋"
-  #   Content: >
-  #     This can be a few sentences with links, bold text, etc.
-
-  # ---- Profile Mode ----
   profileMode:
     enabled: true
     title: "Hi, I'm Jonathan"
     subtitle: |
       I'm **Jonathan**, a senior backend engineer from **Israel** with 9 years of experience in the industry.
-      
-       
+
       ---
-
-
-      I build reliable backend systems and love clean APIs. Currently focused on performance and developer experience.
     imageUrl: "/images/avatar.png"   # put the image in static/images/avatar.jpg
     imageTitle: "Avatar"
     imageWidth: 160
@@ -32,6 +21,10 @@ params:
         url: /Jonathan-CV.pdf
         targetBlank: true
         target: _blank
+      - name: My Skills
+        url: /skills
+        targetBlank: false
+        target: _self
 
   fuseOpts:                 # optional tuning (defaults are good)
     isCaseSensitive: false
@@ -57,9 +50,12 @@ menu:
     - name: Posts
       url: /posts/
       weight: 2
+    - name: Skills
+      url: /skills/
+      weight: 3
     - name: Contact me
       url: /contact/
-      weight: 3
+      weight: 4
     # - name: Search
     #   url: /search/
     #   weight: 4
