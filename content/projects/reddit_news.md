@@ -6,6 +6,8 @@ This is a small Python project that generates a minimalistic news site from Redd
 
 A [Static hosted demo](https://johnyrose.github.io/reddit-news-static-demo/) can be found here.
 
+And yes, this was made before Gen AI made it super easy
+
 ## Background
 
 The project uses 3 external APIs to achieve the generated news site:
