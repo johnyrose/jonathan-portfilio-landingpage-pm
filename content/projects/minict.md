@@ -14,6 +14,8 @@ I made it after becoming familiar with Docker and Kubernetes, aiming to achieve 
 
 Minict runs OCI standard images and supports pulling images from existing registries. 
 
+---
+
 ## Prerequisites
  * The `gpgme-devel` package must be installed on your system.
    * Run `sudo dnf install gpgme-devel` on RHEL-based distros (RHEL, CentOS, Fedora, etc.)

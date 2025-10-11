@@ -42,6 +42,8 @@ params:
         target: _self
       - name: Projects
         url: /projects/
+      - name: Contact
+        url: /contact
 
   fuseOpts:                 # optional tuning (defaults are good)
     isCaseSensitive: false
