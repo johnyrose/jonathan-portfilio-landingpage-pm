@@ -53,9 +53,12 @@ menu:
     - name: Skills
       url: /skills/
       weight: 3
+    - name: Experience
+      url: /experience/
+      weight: 4
     - name: Contact me
       url: /contact/
-      weight: 4
+      weight: 5
     # - name: Search
     #   url: /search/
     #   weight: 4

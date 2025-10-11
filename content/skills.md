@@ -1,4 +1,7 @@
-## Skills
+---
+draft: false
+title: 'Skills'
+---
 
 #### Programming Languages
 - `Python`
@@ -11,12 +14,14 @@
 #### Technologies & Frameworks
 - `Serverless Framework`
 - `Django`, `FastAPI`, `Flask`
+- `NestJS`, `TypeORM`
 - `Celery`
 - `pytest`
 - `SQLAlchemy`, `Pydantic`
 
 #### Tools & Products
-- `Linux`, `Docker`, `Kubernetes`, `Helm`, `Git`
+- `Linux`, `Docker`, `Kubernetes`, `Helm`,
+- `Git`, `Github & Gitlab CI`
 - `RabbitMQ`, `gRPC`, `NGINX`
 - `ELK Stack`
 
@@ -28,20 +33,19 @@
 - `MongoDB`, `DynamoDB`, `PostgreSQL`
 - `Amazon Timestream`, `SQL Server (MSSQL)`, `Redis`
 
+#### AI / ML
+- Building agents with `LangGraph` and `LangChain`
+- Applying AI in development & products
+- Agents and LLM benchmarking
+
+
 #### Software Engineering
 - Frontend & backend design
 - Cloud & system architecture
 - Security best practices
-
-#### AI / ML
-- Applying AI in development & products
-- Agents and LLM benchmarking
-
-#### Other Proficiencies
 - SOLID principles & design patterns
-- REST APIs
 - Unit, integration & component testing
-- OAuth 2.0
+- REST & RESTful design principles
 
 #### Personal
 - Leading features with clear, efficient communication
