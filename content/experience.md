@@ -16,7 +16,7 @@ title: Experience
 
 ---
 
-#### Backend Engineer - Unit 8200  
+#### Backend Engineer - Israeli Military Intelligence  
 *Tel Aviv, Israel | Feb 2019 – Jan 2022*
 
 - Designed and implemented a **cloud-based network research platform** for security researchers, improving performance and usability.  
@@ -29,7 +29,7 @@ title: Experience
 
 ---
 
-#### Platform Engineer - Unit 8200  
+#### DevOps Engineer - Israeli Military Intelligence  
 *Tel Aviv, Israel | Dec 2016 – Feb 2019*
 
 - Architected and managed a large **on-prem Kubernetes environment** with hundreds of nodes and multiple clusters.  
