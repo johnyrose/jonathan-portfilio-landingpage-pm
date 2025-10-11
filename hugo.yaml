@@ -28,8 +28,6 @@ params:
     imageWidth: 160
     imageHeight: 160
     buttons:
-      # - name: Posts
-      #   url: /posts/
       - name: View resume
         url: /Jonathan-CV.pdf
         targetBlank: true
@@ -42,6 +40,8 @@ params:
         url: /experience
         targetBlank: false
         target: _self
+      - name: Projects
+        url: /projects/
 
   fuseOpts:                 # optional tuning (defaults are good)
     isCaseSensitive: false
@@ -63,10 +63,10 @@ menu:
   main:
     - name: Home
       url: /
+      weight: 0
+    - name: Projects
+      url: /projects/
       weight: 1
-    # - name: Posts
-    #   url: /posts/
-    #   weight: 2
     - name: About
       url: /about/
       weight: 2
