@@ -1,6 +1,6 @@
 ---
 date: '2023-06-29T23:31:01+03:00'
-draft: true
+draft: false
 title: 'Designing the Jit Analytics Architecture for Scale and Reuse (on InfoQ)'
 ---
 
