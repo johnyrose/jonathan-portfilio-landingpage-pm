@@ -65,9 +65,9 @@ params:
 
 menu:
   main:
-    - name: Home
-      url: /
-      weight: 1
+    # - name: Home
+    #   url: /
+    #   weight: 1
     - name: About
       url: /about/
       weight: 2
@@ -83,6 +83,6 @@ menu:
     - name: Posts
       url: /posts/
       weight: 6
-    - name: Contact me
+    - name: Contact
       url: /contact/
       weight: 7
