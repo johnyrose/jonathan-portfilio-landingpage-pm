@@ -1,5 +1,5 @@
 ---
-date: '2025-11-02T23:31:01+03:00'
+date: '2025-11-02T20:31:01+03:00'
 draft: false
 title: 'Rant: Vibe coding and finding balance'
 ---
