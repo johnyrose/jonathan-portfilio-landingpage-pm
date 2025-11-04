@@ -25,9 +25,10 @@ title: 'Skills'
 - `RabbitMQ`, `gRPC`, `NGINX`
 - `ELK Stack`
 
-#### Cloud Providers
+#### Cloud
 - AWS: `Lambda`, `SQS`, `EventBridge`, `Kinesis`, `EC2`, `Step Functions`, _and more_
 - Azure
+- Virtualization technologies - `VMWare`, `KVM`
 
 #### Databases
 - `MongoDB`, `DynamoDB`, `PostgreSQL`
@@ -35,7 +36,7 @@ title: 'Skills'
 
 #### AI / ML
 - Building agents with `LangGraph` and `LangChain`
-- Applying AI in development & products
+- Applying AI in the development process (Cursor & the whole shebang)
 - Agents and LLM benchmarking
 
 
