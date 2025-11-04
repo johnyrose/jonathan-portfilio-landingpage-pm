@@ -16,7 +16,7 @@ title: 'Skills'
 - `Django`, `FastAPI`, `Flask`
 - `NestJS`, `TypeORM`
 - `Celery`
-- `pytest`
+- `pytest`, `jest`, and other testing frameworks
 - `SQLAlchemy`, `Pydantic`
 
 #### Tools & Products
