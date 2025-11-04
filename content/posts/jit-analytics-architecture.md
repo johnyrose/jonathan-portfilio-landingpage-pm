@@ -184,7 +184,24 @@ FindingsUploadedRule:
          InputTemplate: >
            {
              "metric_name": "findings_upload_completed",
-complexity), in Jit’s case, DynamoDB simply wasn’t the right fit for the purpose.
+             "metadata": {
+               "tenant_id": <tenant_id>,
+               "event_id": <event_id>,
+             },
+             "data": {
+               "new_findings_count": <new_findings_count>,
+               "existing_findings_count": <existing_findings_count>,
+               "event_time": <time>,
+             }
+           }
+```
+
+Here we transform an event named "findings-uploaded" that is already in the system (that other services listen to) into a unified event that is ready to be ingested by the metric service.
+
+
+### Timestream - Time Series Database
+
+While, as a practice, you should try to make do with the technologies you’re already using in-house and extend them to the required use case if possible (to reduce complexity), in Jit’s case, DynamoDB simply wasn’t the right fit for the purpose.
 
 To be able to handle time series data on AWS (and perform diverse queries) while maintaining a reasonable total cost of ownership (TCO) for this service, new options needed to be explored. This data would later be represented in a custom dashboard per client, where time series capabilities were required (with the required strict format described above). After comparing possible solutions, we decided on the fully managed and low-cost database with SQL-like querying capabilities called Timestream as the core of the architecture.
 
