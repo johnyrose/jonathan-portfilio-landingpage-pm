@@ -20,7 +20,7 @@ params:
     enabled: true
     title: "Hi, I'm Jonathan"
     subtitle: |
-      I'm **Jonathan**, a senior backend engineer from **Israel** with 9 years of experience.
+      I'm **Jonathan**, a senior backend engineer from Israel with 9 years of experience.
 
       ---
     imageUrl: "/images/avatar.png"   # put the image in static/images/avatar.jpg
