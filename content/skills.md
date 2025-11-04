@@ -20,7 +20,7 @@ title: 'Skills'
 - `SQLAlchemy`, `Pydantic`
 
 #### Tools & Products
-- `Linux`, `Docker`, `Kubernetes`, `Helm`,
+- `Linux`, `Docker`, `Kubernetes`, `Helm`
 - `Git`, `Github & Gitlab CI`
 - `RabbitMQ`, `gRPC`, `NGINX`
 - `ELK Stack`
