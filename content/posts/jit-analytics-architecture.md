@@ -8,7 +8,7 @@ Link to original - https://www.infoq.com/articles/jit-analytics-architecture/
 
 This is an article about a metrics data pipelines I was a lead developer in, and had a key part in the design & development of. I hope you find it interesting as I have. This was developed back in 2023.
 
-The article wasn't written written with AI
+The article wasn't written with AI
 
 ---
 
