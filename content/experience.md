@@ -3,8 +3,15 @@ draft: false
 title: Experience
 ---
 
-#### Senior Backend Engineer - Jit.io  
-*Tel Aviv, Israel | Jan 2022 – Present*
+### Senior Software Engineer - NVIDIA
+*Tel Aviv, Israel | Dec 2025 - Present*
+
+- Developing a GPU orchestration platform aimed at efficient compute utilization for AI workloads.
+
+**Main technologies:** `GoLang`, `Kubernetes`, `Ginkgo`
+
+### Senior Backend Engineer - Jit.io  
+*Tel Aviv, Israel | Jan 2022 – Nov 2025*
 
 - Designed and developed a **DevSecOps platform** to simplify security practices across organizations.  
 - Led development of an **orchestrator** for running security tools, available as both SaaS and on-prem solutions on Kubernetes.  
@@ -12,11 +19,11 @@ title: Experience
 - Architected an **event-driven, serverless metric collection system** using AWS services to provide advanced statistics dashboards.  
 - Developed a **scalable backend** for storing and aggregating security findings, improving user retention by **27%**.
 
-**Main technologies used:** `Python`, `FastAPI`, `AWS Lambda`, `SQS`, `EventBridge`, `Kinesis Firehose`, `Step Functions`, `MongoDB`, `Docker`, `Kubernetes`, `Git`, `Serverless Framework`
+**Main technologies used:** `Python`, `FastAPI`, `AWS Lambda`, `SQS`, `EventBridge`, `Kinesis Firehose`, `Step Functions`, `MongoDB`, `Docker`, `Kubernetes`, `Serverless Framework`
 
 ---
 
-#### Backend Engineer - Israeli Military Intelligence  
+### Backend Engineer - Israeli Military Intelligence  
 *Tel Aviv, Israel | Feb 2019 – Jan 2022*
 
 - Designed and implemented a **cloud-based network research platform** for security researchers, improving performance and usability.  
@@ -29,7 +36,7 @@ title: Experience
 
 ---
 
-#### DevOps Engineer - Israeli Military Intelligence  
+### DevOps Engineer - Israeli Military Intelligence  
 *Tel Aviv, Israel | Dec 2016 – Feb 2019*
 
 - Architected and managed a large **on-prem Kubernetes environment** with hundreds of nodes and multiple clusters.  
