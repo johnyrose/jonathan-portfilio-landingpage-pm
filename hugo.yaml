@@ -18,9 +18,11 @@ privacy:
 params:
   profileMode:
     enabled: true
-    title: "Hi, I'm Jonathan"
+    title: "Jonathan Rosenboim"
     subtitle: |
-      I'm **Jonathan**, a senior backend engineer from Israel with 9 years of experience.
+      I'm **Jonathan**, a senior software engineer with 10 years of experience.
+      
+      I'm currently working as a backend engineer at NVIDIA.
 
       ---
     imageUrl: "/images/avatar.png"   # put the image in static/images/avatar.jpg
