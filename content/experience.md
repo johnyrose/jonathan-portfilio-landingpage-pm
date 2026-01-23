@@ -8,7 +8,7 @@ title: Experience
 
 - Developing a GPU orchestration platform aimed at efficient compute utilization for AI workloads.
 
-**Main technologies:** `GoLang`, `Kubernetes`, `Ginkgo`
+**Main technologies:** `GoLang`, `Gin`, `Kubernetes`, `Ginkgo`, `PostgreSQL`
 
 ### Senior Backend Engineer - Jit.io  
 *Tel Aviv, Israel | Jan 2022 – Nov 2025*
