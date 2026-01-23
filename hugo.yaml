@@ -20,9 +20,9 @@ params:
     enabled: true
     title: "Jonathan Rosenboim"
     subtitle: |
-      I'm **Jonathan**, a senior software engineer with 10 years of experience.
+      I'm **Jonathan**, a software engineer with 10 years of experience.
       
-      I'm currently working as a backend engineer at NVIDIA.
+      I'm currently working as a Senior Software Engineer at NVIDIA.
 
       ---
     imageUrl: "/images/avatar.png"   # put the image in static/images/avatar.jpg
