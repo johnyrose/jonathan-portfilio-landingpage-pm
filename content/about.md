@@ -3,7 +3,7 @@ draft: false
 title: About
 ---
 
-I'm Jonathan - A senior backend engineer with a passion for tech and software. I have 9 years of experience in the industry, 2 in DevOps and 7 as a Backend developer.
+I'm Jonathan - A senior backend engineer with a passion for tech and software.
 
 I started my journey as a DevOps engineer focusing on cloud, containers and Linux servers. From there I moved to a Backend developer role with an emphasis on building and leading features end to end.
 
