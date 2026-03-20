@@ -16,6 +16,10 @@ privacy:
 
 
 params:
+  author:
+    name: "Jonathan Rosenboim"
+    email: "rosenboimjonathan@gmail.com"
+
   profileMode:
     enabled: true
     title: "Jonathan Rosenboim"
