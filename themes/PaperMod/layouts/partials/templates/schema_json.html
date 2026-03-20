@@ -102,6 +102,11 @@
     "name": {{ $v }}
   }
   {{- end }}],
+    {{- else if reflect.IsMap . -}}
+  {
+    "@type": "Person",
+    "name": {{ .name }}
+  },
     {{- else -}}
   {
     "@type": "Person",
