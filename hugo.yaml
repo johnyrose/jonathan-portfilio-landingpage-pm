@@ -19,6 +19,7 @@ params:
   author:
     name: "Jonathan Rosenboim"
     email: "rosenboimjonathan@gmail.com"
+  hideMeta: true
 
   profileMode:
     enabled: true
