@@ -10,6 +10,8 @@ title: Experience
 
 **Main technologies:** `GoLang`, `Gin`, `Kubernetes`, `Ginkgo`, `PostgreSQL`
 
+---
+
 ### Senior Backend Engineer - Jit.io  
 *Tel Aviv, Israel | Jan 2022 – Nov 2025*
 
